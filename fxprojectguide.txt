@@ -1,0 +1,46 @@
+<dependency>
+      <groupId>org.openjfx</groupId>
+      <artifactId>javafx-archetype-fxml</artifactId>
+      <version>0.0.3</version>
+  </dependency>
+
+  <dependency>
+      <groupId>org.openjfx</groupId>
+      <artifactId>javafx-archetype-simple</artifactId>
+      <version>0.0.3</version>
+  </dependency>
+
+
+
+  https://nodejs.org/dist/v16.13.1/node-v16.13.1-x64.msi
+  https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe
+
+
+
+java 
+IntelliJ
+Scene Builder
+
+C:\Users\DurgeshPC\AppData\Local\SceneBuilder\SceneBuilder.exe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
