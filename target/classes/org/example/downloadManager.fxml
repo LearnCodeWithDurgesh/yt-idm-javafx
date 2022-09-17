@@ -12,7 +12,6 @@
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
 
-
 <AnchorPane prefHeight="634.0" prefWidth="988.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.DownloadManager">
    <children>
       <BorderPane layoutX="386.0" layoutY="203.0" prefHeight="200.0" prefWidth="200.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
@@ -50,6 +49,7 @@
                 <TableColumn prefWidth="75.0" text="File Name" />
                   <TableColumn prefWidth="75.0" text="File Url" />
                   <TableColumn prefWidth="75.0" text="Status" />
+                  <TableColumn prefWidth="75.0" text="\% Completed" />
                   <TableColumn prefWidth="75.0" text="Action" />
               </columns>
                <columnResizePolicy>
